@@ -1,7 +1,7 @@
 # Matplotlib plotting points demonstration
 # code ref:
 # 25 Sept 2019
- https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/marker_reference.html#sphx-glr-gallery-lines-bars-and-markers-marker-reference-py
+# https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/marker_reference.html#sphx-glr-gallery-lines-bars-and-markers-marker-reference-py
 
 import numpy as np
 import matplotlib.pyplot as plt
