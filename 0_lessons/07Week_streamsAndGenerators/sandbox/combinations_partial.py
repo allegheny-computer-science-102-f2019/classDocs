@@ -17,7 +17,6 @@ def combinations(n,seq):
         # make another recursive call to self, reduce the n
         for a in combinations(n-1, rest):
 #            print("  _for n-1",a)
-
             yield (first,) + a
 #end of combinations()
 
@@ -29,18 +28,6 @@ def n_choose_k_Count(n,k):
 
 import math
 
+# Code to call the functions above is here ...
 
-s_str = "ATGC" # main set (n)
-k = 2 # choose this many of them (k)
-
-print("\t Program to show all sets of n\n\t things from which k of them have been chosen")
-print("\t Start Program :", len(s_str), "choose",k,"from a string : <<",s_str,">>")
-
-print("\t Number of elements in list: ",n_choose_k_Count(len(s_str), k))
-
-myCombination = combinations(k, s_str)
-print("\n\t My type is :",type(myCombination)) # Is this a generator type?
-print("\t Possible combinations of elements chosen this way ")
-for i in myCombination: #iterator
-    print("\t  ",i) # engage the generator function for operation
 print("\t End Program")
