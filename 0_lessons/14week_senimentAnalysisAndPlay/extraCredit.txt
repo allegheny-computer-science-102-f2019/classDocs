@@ -1,0 +1,25 @@
+Hi All,
+
+Please plan to attend one or both of the talks given by Kiran Bastola, PhD at 2:30pm December 2nd, during the Bioinformatics lab session.
+
+[Two speaker-events on 2nd December]
+
+Time: 12:00pm to 1:00pm, Alden 101. A questions and answers discussion on careers in Bioinformatics and Health Informatics. Lunch will be provided lunch will be provided if you RSVP. (link: https://bit.ly/rsvp_bioinformatics).
+
+Time: 2:30pm - 4:00pm, Alden 109. The talk concerning vulnerabilities in the wake of big data in the life sciences.
+[Extra Credit]
+Extra credit will be given for your attendance at one of these events. For the extra credit, you are to write a reflection document concerning a meaningful take-away message of the talk and its discussion.
+
+To complete your reflection, please use the GitHub Classroom repository: https://classroom.github.com/a/vQnmIcse
+
+You will have to accept the extra credit assignment and then push your file, writing/bastolaTalk.md, to your reflection GitHub account by 5:30pm on December 2nd.
+
+Your file should contain the responses to the following questions.
+Which talk did you attend?
+Discuss five main points that were discussed at the talk.
+How will what you have learned help you in some way in the future?
+
+Please see the poster for the events which is attached to this mail. Hope to see you there.
+
+Much thanks,
+OBC
